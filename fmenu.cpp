@@ -70,7 +70,7 @@ void sum()
 		s=s+i;
 		n=n/10;
 	}
-	printf("sum of each degit is:%d",s);
+	printf("sum of  degit is:%d",s);
 }
 void palindrom(int n)
 {
